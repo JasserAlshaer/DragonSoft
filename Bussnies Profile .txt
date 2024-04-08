@@ -1,0 +1,35 @@
+Bussnies Profile 
+
+1- Define Scope :(IT - Company Profile)
+
+About Company , Projects/Product , Clients
+
+Services , Experiments (Daily Back up , Sperated Server , 24 h Support) / Advanteges 
+
+=========================================
+determining Pages (Experinces / Expoloring ) 
+
+
+......................Experinces......................
+1- Home Page (About , Images , Experiments ,
+Clients , Projects/Product)
+2-About Us (About , History , Vission , Contact us Form )
+3- Product Details (Description , Module , Feature)
+
+.......................Expoloring.......................
+1- Home Page 
+(Panner , Description , History , Statsics)
+2- About Us (Detailed Descripton , Expirements , Service / Scopes)
+3- FAQ (Questions and Answers)
+4- Product (Cards sbout product)
+5- Product Details (Product Profile)
+6- Services (Cards)
+7- Clients (--> Testimonails / Review) -- Cards 
+8- Contact Us --> From 
+
+
+*******************************************
+1- Nav bar 
+2- Footer 
+3- Loading Spinner 
+4- Global Style Sheet

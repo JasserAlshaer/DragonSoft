@@ -1,0 +1,15 @@
+.navbar-light .navbar-nav .nav-link {
+    color: #000;
+  }
+  .cutomPadding{
+    padding: 5px;
+  }
+  .footericon{
+    width: 40px;
+    border: 1px solid #fff;
+    background-color: white;
+    color: gray;
+    padding: 5px;
+    border-radius: 40%;
+    text-align: center;
+  }

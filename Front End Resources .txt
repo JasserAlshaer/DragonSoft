@@ -1,0 +1,33 @@
+Front End Resources 
+=====================Images=======================
+1-https://www.freepik.com/
+=====================Icons========================
+1- https://favicon.io/
+2- https://www.flaticon.com/
+3-https://icons.getbootstrap.com/3
+4-https://fontawesome.com/search
+=====================Video========================
+
+=====================Audio========================
+
+=====================Colors ======================
+1- Color Palets 
+https://colorhunt.co/
+=====================Templates====================
+1-MDB Bootstrap 
+https://mdbootstrap.com/docs/standard/navigation/navbar/examples-and-customization/
+2- Color Lib 
+https://colorlib.com/wp/bootstrap-navbar/
+3- Free Front 
+https://freefrontend.com/bootstrap-headers/
+4-Booty BD
+https://www.bootdey.com/snippets/
+5-bootstrapbrain
+https://bootstrapbrain.com/component/bootstrap-5-about-us-page-template/
+
+6-mobirise
+
+https://mobirise.com/bootstrap-template/about-us-page-template/
+
+7-tutorialrepublic
+https://www.tutorialrepublic.com/snippets/
